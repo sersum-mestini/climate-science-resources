@@ -18,4 +18,4 @@ Our goal is to move beyond static documents and create a dynamic system where in
 
 *Resources that provide a comprehensive overview of climate science and the current state of knowledge.*
 
-*[To be added via collaborative process]*
+- **[IPCC AR6 Working Group I: The Physical Science Basis – Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/#SPM)** – A peer‑reviewed synthesis of thousands of studies representing the global scientific consensus on climate change. Covers observed changes, human influence, future projections, and mitigation pathways.
